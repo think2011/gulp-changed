@@ -1,6 +1,6 @@
 {
   "name": "gulp-changed-think2011",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> Only pass through changed files",
   "main": "index.js",
   "scripts": {
